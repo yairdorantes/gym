@@ -1,0 +1,34 @@
+.container-menu-bottom {
+  background-color: yellow;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100vw;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: fixed;
+  bottom: 0;
+  height: 45px;
+  /* padding: 10px; */
+}
+.container-option-bottom {
+  text-align: center;
+}
+.icon-menu-bottom {
+  width: 40px;
+  z-index: 999;
+  margin: auto;
+}
+
+.link-menu-bottom {
+  text-decoration: none;
+  color: black;
+}
+.title-menu-bottom {
+  font-family: "Poppins", sans-serif;
+  opacity: 0;
+
+  margin: auto;
+  text-align: center;
+}
+
+/* xxdxd */
